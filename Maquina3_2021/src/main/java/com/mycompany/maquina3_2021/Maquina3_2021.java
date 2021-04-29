@@ -40,5 +40,5 @@ public class Maquina3_2021 {
 	}
 	while ( ( c != 'f' ) && ( c != 'F' ) );
     }
-    
+      
 }
